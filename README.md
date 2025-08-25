@@ -38,11 +38,5 @@ The case studies demonstrate how SQL queries can be applied to identify trends, 
 
 ---
 
-## 📊 Portfolio Context
-This SQL portfolio is part of my broader **Data Analytics & Business Insights Portfolio** (covering SQL, Python, Statistics, and Tableau).  
-👉 See my full portfolio on LinkedIn: *[insert link once uploaded]*  
-
----
-
 ## 📌 Note
 Datasets are not included due to size/licensing. Queries are based on public datasets (Ford GoBike, Hacker News).  
